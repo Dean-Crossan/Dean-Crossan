@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything to do with software
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dcrossan09@gmail.com
+- 📫 How to reach me deancrossan09@gmail.com
 - ⚡ Fun fact: 16 year old developer
 
 <!---
