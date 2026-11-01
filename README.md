@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deancrossan09@gmail.com
-- ⚡ Fun fact: 16 year old developer
+- ⚡ Fun fact: 17 year old developer
 
 <!---
 Dean-Crossan/Dean-Crossan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
